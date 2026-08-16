@@ -29,7 +29,7 @@ Tags are provided for discovery and testing:
 
 The Dockerfile pins:
 
-- Caddy: `2.10.2`
+- Caddy: `2.11.4`
 - Cloudflare DNS module: `v0.2.4`
 
 The build uses Caddy's official `-builder` image and `xcaddy`, then copies the
